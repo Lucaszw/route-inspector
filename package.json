@@ -1,0 +1,24 @@
+{
+  "name": "@microdrop/route-inspector",
+  "version": "0.0.0",
+  "description": "Inspect Route Properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucaszw/route-inspector.git"
+  },
+  "keywords": [
+    "Microdrop",
+    "Route",
+    "Inspector"
+  ],
+  "author": "Sci-Bots",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Lucaszw/route-inspector/issues"
+  },
+  "homepage": "https://github.com/Lucaszw/route-inspector#readme"
+}

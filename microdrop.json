@@ -1,0 +1,9 @@
+{
+  "name": "route-inspector",
+  "version": "0.0.1",
+  "type": "ui",
+  "script": "route-inspector-ui-plugin.web.js",
+  "views": [
+    "route-inspector.html"
+  ]
+}
